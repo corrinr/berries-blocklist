@@ -1,4 +1,3 @@
-<html>
 <!-- SUSPENDED -->
 <table>
 <th>SUSPENDED</th>
@@ -448,6 +447,12 @@
 
 <tr>
 <td>abdl.link</td>
+<td>mastodon.mxmaxime.ovh
+<td>mastodon.sergal.org
+</tr>
+
+<tr>
+<td>lor.sh</td>
 </tr>
 
 </table>
@@ -468,4 +473,3 @@
 <td>kinky.business</td>
 </tr>
 </table>
-</html>
