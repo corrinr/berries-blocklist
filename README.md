@@ -13,6 +13,18 @@
   <th>Reason</th>
   </tr>
   <tr>
+    <td>bugs.social</td>
+    <td>incompatible with rules</td>
+  </tr>
+  <tr>
+    <td>raki.social</td>
+    <td>datamining</td>
+  </tr>
+  <tr>
+    <td>newjack.city</td>
+    <td>datamining</td>
+  </tr>
+  <tr>
     <td>slime.dragon.garden</td>
     <td>difficulty federating</td>
   </tr>
