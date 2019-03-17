@@ -3,59 +3,8 @@
 <html>
 <p><h2>If you are the admin of one of the below instances, especially those marked shut down, feel free to get in contact with us about refederating at berriesmod@gmail.com.</h2></p>
 <p>
-  <head>
-    <style type="text/css">
-
-/* guess what THIS is */
-    body {
-      font-family: Montserrat, Roboto, Helvetica;
-    }
-
-    table#t00 {
-      font-family: Helvetica;
-      border-bottom:1px solid black;
-      border-collapse: collapse;
-    }
-
-th {
-  padding:5px;
-}
-
-    th#h01 {
-      letter-spacing:1px;
-      font-size:18px;
-      border-radius: 15px 0px 0px 0px;
-    }
-
-    th#h02 {
-      letter-spacing:1px;
-      font-size:18px;
-      border-radius: 0px 15px 0px 0px;
-    }
-
-    td {
-      padding:3px;
-      border:1px solid black;
-      border-collapse: collapse;
-    }
-
-/* odd/even colouring */
-    table#t00 tr:nth-child(even) {
-      background-color: #eee;
-    }
-
-    table#t00 tr:nth-child(odd) {
-      background-color: #fff;
-    }
-
-    table#t00 th {
-      color: white;
-      background-color: black;
-    }
-
-    </style>
-
-  </head>
+<head>
+</head>
   <body>
     <h3>Suspended</h3>
 <table id="t00">
