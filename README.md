@@ -7,10 +7,10 @@
 </head>
   <body>
     <h3>Suspended</h3>
-<table id="t00">
+<table>
   <tr>
-  <th id="h01">Instance</th>
-  <th id="h02">Reason</th>
+  <th>Instance</th>
+  <th>Reason</th>
   </tr>
   <tr>
   <td>notvery.social</td>
@@ -919,10 +919,10 @@
   </table>
 
 <h3>Silenced</h3>
-  <table id="t00">
+  <table>
   <tr>
-  <th id="h01">Instance</th>
-  <th id="h02">Reason</th>
+  <th>Instance</th>
+  <th>Reason</th>
   </tr>
   <tr>
   <td>wetfish.space</td>
