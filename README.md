@@ -1,6 +1,6 @@
-#List of berries.space's suspended and silenced instances
 <!DOCTYPE html>
 <html>
+  <p><h1>List of berries.space's suspended and silenced instances</h1>
 <p><h2>If you are the admin of one of the below instances, especially those marked shut down, feel free to get in contact with us about refederating at berriesmod@gmail.com.</h2></p>
 <p>
 <head>
@@ -11,6 +11,10 @@
   <tr>
   <th>Instance</th>
   <th>Reason</th>
+  </tr>
+  <tr>
+    <td>slime.dragon.garden</td>
+    <td>difficulty federating</td>
   </tr>
   <tr>
   <td>notvery.social</td>
