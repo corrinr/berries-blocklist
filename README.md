@@ -12,6 +12,10 @@
   <th>Instance</th>
   <th>Reason</th>
   </tr>
+    <tr>
+  <td>toot.techopolis.io</td>
+  <td>difficulty federating</td>
+  </tr>
   <tr>
     <td>bugs.social</td>
     <td>incompatible with rules</td>
