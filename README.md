@@ -19,7 +19,7 @@
   <tr>
   <tr>
     <td>mastodon.starrevolution</td>
-    <td>difficulty federating</td>
+    <td>difficulty federating, issues with admin</td>
   </tr>
   <tr>
   <tr>
