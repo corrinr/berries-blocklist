@@ -12,6 +12,11 @@
   <th>Instance</th>
   <th>Reason</th>
   </tr>
+     <tr>
+  <td>mastodon.starrevolution</td>
+  <td>difficulty federating</td>
+  </tr>
+  <tr>
     <tr>
   <td>toot.techopolis.io</td>
   <td>difficulty federating</td>
