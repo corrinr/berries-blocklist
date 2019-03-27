@@ -13,6 +13,22 @@
   <th>Reason</th>
   </tr>
   <tr>
+    <td>anime.website</td>
+    <td>incompatible with rules, issues with admin</td>
+  </tr>
+  <tr>
+    <td>kitsune.cafe</td>
+    <td>incompatible with rules, issues with admin</td>
+  </tr>
+  <tr>
+    <td>kawen.space</td>
+    <td>issues with admin</td>
+  </tr>
+  <tr>
+    <td>pikachu.rocks</td>
+    <td>issues with admin</td>
+  </tr>
+  <tr>
     <td>furrytf.club</td>
     <td>difficulty federating</td>
   </tr>
