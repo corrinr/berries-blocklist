@@ -13,6 +13,14 @@
   <th>Reason</th>
   </tr>
   <tr>
+    <td>rosariotech.com.br</td>
+    <td>difficulty federating</td>
+  </tr>
+  <tr>
+    <td>boopsnoot.gq</td>
+    <td>difficulty federating</td>
+  </tr>
+  <tr>
     <td>anime.website</td>
     <td>incompatible with rules, issues with admin</td>
   </tr>
