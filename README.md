@@ -13,6 +13,10 @@
   <th>Reason</th>
   </tr>
   <tr>
+    <td>scifi.fyi</td>
+    <td>difficulty federating</td>
+  </tr>
+  <tr>
     <td>rosariotech.com.br</td>
     <td>difficulty federating</td>
   </tr>
