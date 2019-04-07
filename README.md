@@ -13,6 +13,9 @@
   <th>Reason</th>
   </tr>
   <tr>
+    <td>monsterprom.space</td>
+    <td>issues with admin, incompatible with rules</td>
+  <tr>
     <td>gentler.earth</td>
     <td>difficulty federating</td>
   </tr>
