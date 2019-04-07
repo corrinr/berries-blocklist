@@ -13,8 +13,12 @@
   <th>Reason</th>
   </tr>
   <tr>
-    <td>scifi.fyi</td>
+    <td>gentler.earth</td>
     <td>difficulty federating</td>
+  </tr>
+  <tr>
+    <td>daffodil-11.org</td>
+    <td>issues with admin</td>
   </tr>
   <tr>
     <td>rosariotech.com.br</td>
