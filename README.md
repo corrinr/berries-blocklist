@@ -13,9 +13,41 @@
   <th>Reason</th>
   </tr>
   <tr>
+    <td>twinja.club</td>
+    <td>difficulty federating</td>
+  </tr>
+  <tr>
+    <td>pleroma.1d4.us</td>
+    <td>difficulty federating</td>
+  </tr>
+  <tr>
+    <td>boardgames.social</td>
+    <td>difficulty federating</td>
+  </tr>
+  <tr>
+    <td>albin.social</td>
+    <td>incompatible with rules</td>
+  </tr>
+  <tr>
+    <td>xn--6r8h.tk</td>
+    <td>incompatible with rules</td>
+  </tr>
+  <tr>
+    <td>the.hedgehoghunter.club</td>
+    <td>incompatible with rules</td>
+  </tr>
+  <tr>
+    <td>fedi.z0ne.moe</td>
+    <td>difficulty federating</td>
+  </tr>
+  <tr>
+    <td>transfurrmation.town</td>
+    <td>incompatible with rules</td>
+  </tr>
+  <tr>
     <td>monsterprom.space</td>
     <td>issues with admin, incompatible with rules</td>
-  <tr>
+  </tr>
     <td>gentler.earth</td>
     <td>difficulty federating</td>
   </tr>
