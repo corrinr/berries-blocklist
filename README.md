@@ -13,6 +13,10 @@
   <th>Reason</th>
   </tr>
   <tr>
+    <td>metalhead.club</td>
+    <td>issues with admin</td>
+  </tr>
+  <tr>
     <td>twinja.club</td>
     <td>difficulty federating</td>
   </tr>
