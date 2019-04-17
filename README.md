@@ -13,6 +13,30 @@
   <th>Reason</th>
   </tr>
   <tr>
+    <td>oransns.com</td>
+    <td>incompatible with rules</td>
+  </tr>
+  <tr>
+    <td>social.smurpspaek.de</td>
+    <td>difficulty federating</td>
+  </tr>
+  <tr>
+    <td>expshift.com</td>
+    <td>difficulty federating</td>
+  </tr>
+  <tr>
+    <td>prose.zone</td>
+    <td>shut down</td>
+  </tr>
+  <tr>
+    <td>stealingyour.info</td>
+    <td>incompatible with rules</td>
+  </tr>
+  <tr>
+    <td>djs.social</td>
+    <td>shut down</td>
+  </tr>
+  <tr>
     <td>metalhead.club</td>
     <td>issues with admin</td>
   </tr>
