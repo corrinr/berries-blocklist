@@ -13,6 +13,10 @@
   <th>Reason</th>
   </tr>
   <tr>
+    <td>cloutfla.re</td>
+    <td>issues with admin</td>
+  </tr>
+  <tr>
     <td>scifi.fyi</td>
     <td>difficulty federating</td>
   </tr>
