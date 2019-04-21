@@ -13,6 +13,14 @@
   <th>Reason</th>
   </tr>
   <tr>
+    <td>linuxrocks.online</td>
+    <td>shut down</td>
+  </tr>
+  <tr>
+    <td>status.online</td>
+    <td>shut down</td>
+  </tr>
+  <tr>
     <td>kink.town</td>
     <td>incompatible with rules</td>
   </tr>
