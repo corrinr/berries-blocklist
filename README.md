@@ -13,6 +13,10 @@
   <th>Reason</th>
   </tr>
   <tr>
+    <td>kink.town</td>
+    <td>incompatible with rules</td>
+  </tr>
+  <tr>
     <td>crimethink.top</td>
     <td>issues with admin</td>
   </tr>
