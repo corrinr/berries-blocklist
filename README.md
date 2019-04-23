@@ -13,6 +13,14 @@
   <th>Reason</th>
   </tr>
   <tr>
+    <td>socialnetwork.ninja</td>
+    <td>issues with admin</td>
+  </tr>
+  <tr>
+    <td>social.homunyan.com</td>
+    <td>incompatible with rules</td>
+  </tr>
+  <tr>
     <td>linuxrocks.online</td>
     <td>shut down</td>
   </tr>
