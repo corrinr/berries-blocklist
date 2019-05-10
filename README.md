@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html>
   <p><h1>List of berries.space's suspended and silenced instances</h1>
-<p><h2>If you are the admin of one of the below instances, especially those marked shut down, feel free to get in contact with us about refederating at berriesmod@gmail.com.</h2></p>
+<p>
+  This list will remain static as of now, since berries.space will be shutting down shortly. It's available as a reference for other instance admins looking for a comprehensive list of instance blocks.</p>
+  <p>In general, our policy was to wait at least a day or two and then suspend after extended downtime, if an instance was backing up our sidekiq badly. The instances marked shut down are accurate as of 5/10/19; those marked difficulty federating may be shut down by now. "Difficulty federating" refers to either instances that had a lot of trouble federating with berries and backed up our sidekiq, or instances that experienced a lot of downtime or long periods of downtime but we weren't sure if they were shut down. The majority of them weren't really followed by anyone on berries and a lot are single user or small instances that go down often. If you're using this as a reference for your own instance blocks, keep an eye on those, but they aren't recommended blocks unless they're also causing you problems or have been closed by now.</p>
+  <p>Most of the incompatible instances here are either "free speech" type deals, allow loli or other illegal/nasty content, or don't have comprehensive enough rules to stop harassment.</p>
+  <p>If you see any errors here, feel free to get in contact either here or by email at admin@midnight.dance.</p>
 <p>
 <head>
 </head>
@@ -22,7 +26,7 @@
   </tr>
   <tr>
     <td>linuxrocks.online</td>
-    <td>shut down</td>
+    <td>difficulty federating</td>
   </tr>
   <tr>
     <td>status.online</td>
@@ -42,7 +46,7 @@
   </tr>
   <tr>
     <td>scifi.fyi</td>
-    <td>difficulty federating</td>
+    <td>shut down</td>
   </tr>
   <tr>
     <td>oransns.com</td>
@@ -50,11 +54,11 @@
   </tr>
   <tr>
     <td>social.smurpspaek.de</td>
-    <td>difficulty federating</td>
+    <td>shut down</td>
   </tr>
   <tr>
     <td>expshift.com</td>
-    <td>difficulty federating</td>
+    <td>shut down</td>
   </tr>
   <tr>
     <td>prose.zone</td>
@@ -74,11 +78,11 @@
   </tr>
   <tr>
     <td>twinja.club</td>
-    <td>difficulty federating</td>
+    <td>shut down</td>
   </tr>
   <tr>
     <td>pleroma.1d4.us</td>
-    <td>difficulty federating</td>
+    <td>shut down</td>
   </tr>
   <tr>
     <td>boardgames.social</td>
@@ -98,7 +102,7 @@
   </tr>
   <tr>
     <td>fedi.z0ne.moe</td>
-    <td>difficulty federating</td>
+    <td>shut down</td>
   </tr>
   <tr>
     <td>transfurrmation.town</td>
@@ -109,7 +113,7 @@
     <td>issues with admin, incompatible with rules</td>
   </tr>
     <td>gentler.earth</td>
-    <td>difficulty federating</td>
+    <td>shut down</td>
   </tr>
   <tr>
     <td>daffodil-11.org</td>
@@ -117,11 +121,11 @@
   </tr>
   <tr>
     <td>rosariotech.com.br</td>
-    <td>difficulty federating</td>
+    <td>shut down</td>
   </tr>
   <tr>
     <td>boopsnoot.gq</td>
-    <td>difficulty federating</td>
+    <td>shut down</td>
   </tr>
   <tr>
     <td>anime.website</td>
@@ -141,7 +145,7 @@
   </tr>
   <tr>
     <td>furrytf.club</td>
-    <td>difficulty federating</td>
+    <td>shut down</td>
   </tr>
   <tr>
   <tr>
@@ -151,7 +155,7 @@
   <tr>
   <tr>
     <td>toot.techopolis.io</td>
-    <td>difficulty federating</td>
+    <td>shut down</td>
   </tr>
   <tr>
     <td>bugs.social</td>
@@ -167,7 +171,7 @@
   </tr>
   <tr>
     <td>slime.dragon.garden</td>
-    <td>difficulty federating</td>
+    <td>shut down</td>
   </tr>
   <tr>
   <td>notvery.social</td>
@@ -175,7 +179,7 @@
   </tr>
   <tr>
   <td>lamp.institute</td>
-  <td>difficulty federating</td>
+  <td>shut down</td>
   </tr>
   <tr>
   <td>youdieifyou.work</td>
@@ -187,15 +191,15 @@
   </tr>
   <tr>
   <td>otherkin.club</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>masto.misell.cymru</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>toot.xayah.net</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>guillotines.masto.host</td>
@@ -219,11 +223,11 @@
   </tr>
   <tr>
   <td>queer.af</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>mastodon.ar.al</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>hackers.town</td>
@@ -255,7 +259,7 @@
   </tr>
   <tr>
   <td>cutie-pies.club</td>
-  <td>difficulty federating</td>
+  <td>shut down</td>
   </tr>
   <tr>
   <td>mastogay.ga</td>
@@ -279,11 +283,11 @@
   </tr>
   <tr>
   <td>cathoderay.tube</td>
-  <td>difficulty federating</td>
+  <td>shut down</td>
   </tr>
   <tr>
   <td>thesocialmedia.feedbackloo.pw</td>
-  <td>difficulty federating</td>
+  <td>shut down</td>
   </tr>
   <tr>
   <td>fedi.jort.space</td>
@@ -299,7 +303,7 @@
   </tr>
   <tr>
   <td>nine.moe</td>
-  <td>difficulty federating</td>
+  <td>shut down</td>
   </tr>
   <tr>
   <td>redgla.re</td>
@@ -315,7 +319,7 @@
   </tr>
   <tr>
   <td>nojack.easydns.ca</td>
-  <td>shut down</td>
+  <td>incompatible with rules</td>
   </tr>
   <tr>
   <td>mastodon.h.etbus.ch</td>
@@ -331,7 +335,7 @@
   </tr>
   <tr>
   <td>gorf.club</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>social.foxfam.club</td>
@@ -367,7 +371,7 @@
   </tr>
   <tr>
   <td>testing.pleroma.lol</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>averly.me</td>
@@ -595,11 +599,11 @@
   </tr>
   <tr>
   <td>catto.space</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>babymetal.party</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>voxcry.pt</td>
@@ -643,7 +647,7 @@
   </tr>
   <tr>
   <td>write.lain.haus</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>toots.jagtalon.com</td>
@@ -655,7 +659,7 @@
   </tr>
   <tr>
   <td>route66.social</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>mstdn.iofoundry.eu</td>
@@ -675,7 +679,7 @@
   </tr>
   <tr>
   <td>soc1.leftic.club</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>social.quodverum.com</td>
@@ -691,23 +695,23 @@
   </tr>
   <tr>
   <td>pm.ernix.jp</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>thicc.horse</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>bsd.moe</td>
-  <td>shut down</td>
+  <td>incompatible with rules</td>
   </tr>
   <tr>
   <td>nonexiste.net</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>ps.s10y.eu</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>masto.brianjon.es</td>
@@ -723,7 +727,7 @@
   </tr>
   <tr>
   <td>mastodon.dmrty.fr</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>mastodon.mynameisivan.ru</td>
@@ -755,7 +759,7 @@
   </tr>
   <tr>
   <td>ndtsm.cant.at</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>ideath.net</td>
@@ -763,7 +767,7 @@
   </tr>
   <tr>
   <td>imaginair.es</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>imma.adorableweirdo.com</td>
@@ -799,7 +803,7 @@
   </tr>
   <tr>
   <td>icosahedron.website</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>furby.masto.host</td>
@@ -927,7 +931,7 @@
   </tr>
   <tr>
   <td>pretend.fun</td>
-  <td>shut down</td>
+  <td>incompatible with rules</td>
   </tr>
   <tr>
   <td>shitbird.online</td>
@@ -955,7 +959,7 @@
   </tr>
   <tr>
   <td>uwu.st</td>
-  <td>incompatible with rules</td>
+  <td>shut down</td>
   </tr>
   <tr>
   <td>komaedak.in</td>
@@ -983,7 +987,7 @@
   </tr>
   <tr>
   <td>honey.church</td>
-  <td>incompatible with rules</td>
+  <td>incompatible with rules, shut down</td>
   </tr>
   <tr>
   <td>wagesofsinisdeath.com</td>
@@ -1063,11 +1067,11 @@
   </tr>
   <tr>
   <td>mastodon.mxmaxime.ovh</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>mastodon.sergal.org</td>
-  <td>shut down</td>
+  <td>difficulty federating</td>
   </tr>
   <tr>
   <td>lor.sh</td>
